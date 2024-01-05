@@ -1,0 +1,16 @@
+CRC-LIST
+sspm 0x3d726d38
+vbmeta_vendor 0x736286c5
+md1img 0xfa79aed7
+tee 0x8f57f948
+vbmeta 0x2c0d07fd
+dtbo 0x8f863e0d
+logo 0x348dcfab
+scp 0x5a413f7c
+spmfw 0x9e302fe5
+recovery 0x7890fcc9
+vbmeta_system 0x41247275
+preloader 0xc60d195e
+boot 0x1adbc2d1
+lk 0xa3e92288
+cache 0x3c9e163c
